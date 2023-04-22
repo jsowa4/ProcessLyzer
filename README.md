@@ -5,12 +5,13 @@ This command lines application was created to track the different processes runn
 At the moment, the application can only be run via CMake and the subsequently generated Makefile:
 
 1. Run `cmake CMakeLists.txt` to generate the make file.
-2. Make the exectuable using `make`.
+2. Make the executable using `make`.
 3. Run the application: `./ProcessLyzer`.
 
 ## Future Development
 The following features are in development:
 - More execution options, such as time between scans and ignored processes
+- Expanded instructions on executable creation
 - Analysis of abnormal CPU usage
 - GUI Application
 - And more!
